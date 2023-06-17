@@ -7,7 +7,7 @@ import Productlist from '@/views/Productlist'
 import Promotionlist from '@/views/Promotionlist'
 import Vintage from '@/views/Vintage'
 import Newsletter from '@/views/Newsletter'
-import Abovefoot from '@/views/Abovefoot'
+
 
 export default function Home() {
   return (
